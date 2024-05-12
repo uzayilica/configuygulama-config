@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: configuygulama
+
+
+sayi: 0
+isim: 0
+soyad: 0
+
+
+degiskenler:
+  number1: 0
